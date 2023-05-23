@@ -9,6 +9,10 @@
       <i-simple-line-icons-arrow-left-circle></i-simple-line-icons-arrow-left-circle>
       <i-simple-line-icons-anchor></i-simple-line-icons-anchor>
     </div>
+    <div>
+      <el-button>test button</el-button>
+      <el-icon><i-ep-apple></i-ep-apple></el-icon>
+    </div>
   </div>
 </template>
 
